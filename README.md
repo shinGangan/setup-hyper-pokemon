@@ -42,9 +42,9 @@ curl/wgetコマンドでダウンロードする
 hyperを開く。やったね🎉
 
 <img
-  src="https://github.com/Shimpei-GANGAN/setup-hyper-pokemon/assets/44604921/5dadae23-8392-4304-8c06-ac7db52ad7e4"
+  src="https://github.com/Shimpei-GANGAN/setup-hyper-pokemon/assets/44604921/a8ad16ff-943e-4dff-a159-7fea993a5392"
   width="600px"
-  alt="hyper-pokemon設定完了時のターミナル画面"
+  alt="hyper-pokemon設定完了時のターミナル画面(ミズゴロウ)"
 />
 
 ## 設定を変えたい場合

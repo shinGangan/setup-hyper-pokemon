@@ -1,6 +1,6 @@
 # setup-hyper-pokemon
 
-hyper-pokemonをセットアップするためのscript (対象: Mac / zsh terminal)
+[hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon)をセットアップするためのscript (対象: Mac / zsh terminal)
 
 ## Environment
 
@@ -64,6 +64,16 @@ module.exports = {
   };
 };
 ```
+
+## Ref
+
+### GitHub
+
+- [hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon)
+
+### Qiita
+
+- [爆速でターミナルをポケモンにする](https://qiita.com/chanuu/items/b5c3d11e089ad0c7356d)
 
 ## Contact
 

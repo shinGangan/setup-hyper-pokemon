@@ -20,6 +20,12 @@
    brew install hyper
    ```
 
+3. hyper-pokemonをインストールする
+
+   ```sh
+   hyper i hyper-pokemon
+   ```
+
 ### Draft: 実行
 
 #### gitコマンドが使える場合
